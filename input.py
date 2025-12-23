@@ -1,3 +1,6 @@
+"""
+
+
 name =input("Enter the name: ")
 print(name)
 print(type(name))
@@ -18,3 +21,8 @@ print(type(age))
 Mobile =int(input("Enter your Mobile No: "))
 print(Mobile)
 print(type(Mobile))
+"""
+"""
+# sum of 2 numbers.
+number1=input("Enter the number1 ")
+number1=input("Enter the number1 ")
