@@ -1,5 +1,5 @@
-a = int(input("Enter the number: "))
-b = int(input("Enter the number: "))
+a = int(input("Enter the number a: "))
+b = int(input("Enter the number b: "))
 
 
 if a >b:
